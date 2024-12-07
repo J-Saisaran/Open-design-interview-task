@@ -797,6 +797,70 @@ align-items: center;
         height: auto;
     }
 
+    .text1 {
+        border: 1px solid #ccc;
+        padding: 0px;
+        font-size: 24px;
+        width: 100%;
+    }
+
+    .logo1 {
+        width: 40%;
+        height: 100%;
+        border-top-right-radius: 200px;
+        border-bottom-right-radius: 200px;
+        margin-top: -7%;
+        margin-left: 3%;
+    }
+
+    .logo2 {
+        width: 40%;
+        height: 100%;
+        border-top-left-radius: 200px;
+        border-bottom-left-radius: 200px;
+        margin-top: -27%;
+        margin-left: 68%;
+    }
+
+    .text3 {
+        padding-left: 0px;
+        font-size: 9px;
+        width: 90%;
+        font-weight: bold;
+    }
+
+    .text4 {
+        padding-left: 1px;
+        font-size: 8px;
+        /* line-height: 1; */
+    }
+
+    .text3 {
+        padding-left: 0px;
+        margin-top: -27px;
+        font-size: 9px;
+        width: 90%;
+        font-weight: bold;
+    }
+
+    .text5 {
+        /* padding-right: 15px; */
+        font-size: 9px;
+        width: 65%;
+        margin-left: -14%;
+        margin-top: -9%;
+        font-weight: bold;
+    }
+
+    .text6 {
+        padding: 2px;
+        font-size: 8px;
+        line-height: 1;
+        margin-left: -15%;
+        width: 82%;
+    }
 }
+
+
 
 
