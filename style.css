@@ -488,7 +488,7 @@ text-align: center;
 }
 
 
-@media(max-width:480px) {
+@media only screen and (max-width:480px) {
 
     .nav-links li ul{
 
@@ -606,7 +606,7 @@ text-align: center;
         border-top-right-radius: 200px;
         border-bottom-right-radius: 200px;
         margin-top: -31%;
-        margin-left: 67%;
+        margin-left: 42%;
     }
     .logo2 img {
         width: 75%;
@@ -736,7 +736,7 @@ align-items: center;
 
 
 
-@media(max-width:768px){
+@media only screen and (max-width:768px){
     .logo1 {
         width: 40%;
         height: 100%;
@@ -768,7 +768,7 @@ align-items: center;
 
     .footer-columns li {
         margin-bottom: 5px;
-        font-size: 9px;
+        font-size: 10px;
     }
 
     .nav-links li ul{
